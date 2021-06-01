@@ -7,10 +7,9 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mapleccc&repo=Session-Buddy-Helpkit&show_owner=true)](https://github.com/MapleCCC/Session-Buddy-Helpkit) -->
 
-
-<!-- <a href="https://github.com/MapleCCC">
+<a href="https://github.com/MapleCCC">
   <img align="left" alt="MapleCCC's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mapleccc&count_private=true&show_icons=true&include_all_commits=true" />
-</a> -->
+</a>
 
 <a href="https://github.com/MapleCCC">
   <img align="left" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mapleccc&layout=compact" />
