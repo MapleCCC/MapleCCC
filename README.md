@@ -1,3 +1,7 @@
+What's up, biyatch!
+
+My name is XXX (Oops! Redacted out of privacy concern). Call me my web handle: MapleCCC. My most fluent programming languages are Python and C++. My interest is on computer science theories and software engineering. I am currently learning Rust and Haskell. I enjoy writing funny tools, sometimes performing creative coding art.
+
 <!-- [![MapleCCC's github stats](https://github-readme-stats.vercel.app/api?username=mapleccc&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/MapleCCC)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mapleccc&layout=compact)](https://github.com/MapleCCC) -->
