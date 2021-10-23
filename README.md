@@ -1,4 +1,4 @@
-MapleCCC identifies himself as a computer scientist and software engineer. His fluent programming languages are Python and C++. His interest is on computer science theories and software engineering. He is currently learning Rust and Haskell. He enjoys writing funny tools, sometimes performing creative coding art.
+MapleCCC identifies himself as a computer scientist and software engineer. His fluent programming languages are Python and C++. His interest is on computer science theories and software engineering. He is currently learning Rust and Haskell. He enjoys writing awesome tools, sometimes performing creative coding art.
 
 <!-- [![MapleCCC's github stats](https://github-readme-stats.vercel.app/api?username=mapleccc&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/MapleCCC)
 
